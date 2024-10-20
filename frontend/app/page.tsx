@@ -91,7 +91,7 @@ export default function LandingPage() {
                   <CardTitle>Sarah K.</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p>"NearSense has revolutionized my trading strategy. The real-time sentiment analysis gives me an edge I never had before."</p>
+                  <p>NearSense has revolutionized my trading strategy. The real-time sentiment analysis gives me an edge I never had before.</p>
                 </CardContent>
               </Card>
               <Card>
@@ -99,7 +99,7 @@ export default function LandingPage() {
                   <CardTitle>Michael R.</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p>"As a NEAR blockchain enthusiast, NearSense has become an indispensable tool in my trading arsenal."</p>
+                  <p>As a NEAR blockchain enthusiast, NearSense has become an indispensable tool in my trading arsenal.</p>
                 </CardContent>
               </Card>
               <Card>
@@ -107,7 +107,7 @@ export default function LandingPage() {
                   <CardTitle>Elena T.</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p>"The accuracy of NearSense sentiment analysis is impressive. It has helped me make more informed decisions in volatile markets."</p>
+                  <p>The accuracy of NearSense sentiment analysis is impressive. It has helped me make more informed decisions in volatile markets.</p>
                 </CardContent>
               </Card>
             </div>
