@@ -1,4 +1,4 @@
-# NearSense - Real-Time Sentiment Analysis Powered by Masa AI for Crypto Trading
+# NearSense - Real-Time Sentiment Analysis Powered by Masa AI Twitter KOL Data for Trading on Near
 
 ### Project Description:
 
